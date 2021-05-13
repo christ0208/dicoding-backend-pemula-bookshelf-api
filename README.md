@@ -17,7 +17,7 @@ An API application to manage books. The main purpose is for Dicoding Submission.
 
 ## Development Build and Run
 
-- Clone repository from https://github.com/christ0208/dicoding-bookshelf-api
+- Clone repository from https://github.com/christ0208/dicoding-backend-pemula-bookshelf-api.git
 - Duplicate ```.env.example``` and rename the file to be ```.env```. Adjust the contents with your need
 - Run ```npm install --production=false``` command in project directory with terminal or command prompt
 - Run ```knex migrate:latest --esm``` command to migrate table structures in specific database
@@ -26,7 +26,7 @@ An API application to manage books. The main purpose is for Dicoding Submission.
 
 ## Production Build and Run
 
-- Clone repository from https://github.com/christ0208/dicoding-bookshelf-api
+- Clone repository from https://github.com/christ0208/dicoding-backend-pemula-bookshelf-api.git
 - Duplicate ```.env.example``` and rename the file to be ```.env```. Adjust the contents with your need
 - Run ```npm install --production``` command in project directory with terminal or command prompt
 - Run ```knex migrate:latest --esm``` command to migrate table structures in specific database
